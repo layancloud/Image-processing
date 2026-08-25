@@ -9,7 +9,7 @@ This lab covers the basics of Python programming for Image Processing, including
 * Libraries: `OpenCV`, `Pillow (PIL)`, `Matplotlib`, `NumPy`
 
 ##  Tasks Summary
-* **Task 1:** Environment setup and library installation.
-* **Task 2:** Read and display images using OpenCV and PIL.
-* **Task 3:** Save processed images to disk (`new_image.jpg`, `new_image2.jpg`).
-* **Task 4:** Inspect image shapes and convert images into NumPy pixel arrays.
+*Task 1:Environment setup and library installation.
+*Task 2:Read and display images using OpenCV and PIL.
+*Task 3:Save processed images to disk (`new_image.jpg`, `new_image2.jpg`).
+*Task 4:Inspect image shapes and convert images into NumPy pixel arrays.
