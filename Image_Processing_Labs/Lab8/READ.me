@@ -1,1 +1,18 @@
+# Lab 8 - Morphological Image Processing
 
+## What I did
+- Created a binary image with 4 shapes (solid circle, solid rectangle, hollow circle, hollow rectangle) and 1000 noise pixels.
+- Task 1: applied erosion, dilation, opening and closing using a 5x5 square kernel.
+- Task 2: applied the same four operations using a circular kernel with radius 5.
+- Task 3: compared the results of the two kernels.
+
+## Libraries
+- OpenCV (cv2)
+- NumPy
+- Matplotlib
+
+## How to run
+Open `Lab8_Morphological.ipynb` and run the cells from top to bottom.
+
+## Summary of results
+The circular kernel is bigger than the square kernel, so it changes the image more. The square kernel keeps sharp corners, and the circular kernel gives rounder and smoother shapes.
